@@ -19,4 +19,6 @@ class Solution {
        
     }
 
+// Time complexity is good or great O(n) 9/10
+
 
