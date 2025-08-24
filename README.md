@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0035-search-insert-position) |
 | [0566-reshape-the-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0898-transpose-matrix) |
@@ -88,4 +89,8 @@
 | ------- |
 | [1899-count-items-matching-a-rule](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
