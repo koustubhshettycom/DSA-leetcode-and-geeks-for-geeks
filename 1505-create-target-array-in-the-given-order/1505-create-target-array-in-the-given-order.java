@@ -1,4 +1,3 @@
-
 class Solution {
     public int[] createTargetArray(int[] nums, int[] index) {
         int[] target = new int[nums.length];
@@ -16,3 +15,4 @@ class Solution {
         return target;
     }
 }
+// Time complexity is O(n) 8/10
