@@ -38,3 +38,5 @@ class Solution {
     }
     
 }
+
+// time complexity is n*n good but not the best so its 7/10
