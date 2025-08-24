@@ -9,3 +9,4 @@ class Solution {
         return ans;
     }
 }
+// Time complexity is quite good O(n) 8.5/10
