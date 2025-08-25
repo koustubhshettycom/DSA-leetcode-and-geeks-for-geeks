@@ -50,6 +50,6 @@ class Solution {
    
                // using recursion to for the inner loops 
                 spiral( arr, startrow+1, endrow-1, startcol+1, endcol-1,ll);
-            } // Time complexity is great and good job at your first medium question O(m*n) 10/10
+            }
 
 }
