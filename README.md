@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0169-majority-element) |
 | [0566-reshape-the-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
@@ -30,6 +31,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0898-transpose-matrix) |
@@ -44,6 +46,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0898-transpose-matrix) |
