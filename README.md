@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0169-majority-element) |
 | [0566-reshape-the-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0898-transpose-matrix) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -65,10 +67,12 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -93,4 +97,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
