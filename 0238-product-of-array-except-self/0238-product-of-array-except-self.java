@@ -44,3 +44,4 @@ class Solution {
         return count;
     }
 }
+// Time complexity is not good comparatively O(n*n) 5/10
