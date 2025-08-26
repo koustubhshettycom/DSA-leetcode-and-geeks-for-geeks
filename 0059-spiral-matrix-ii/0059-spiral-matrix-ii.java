@@ -7,7 +7,7 @@ class Solution {
         }
         
         for(int i=startcol;i<=endcol;i++){
-            arr[startcol][i]=num;
+            arr[startrow][i]=num;
             num++;
         }
         for(int i = startrow + 1; i <= endrow; i++){
@@ -34,6 +34,7 @@ class Solution {
         fillmatrix(arr,0,0,n-1,n-1);
         return arr;
 
+// Time complexity is O(n*n) which bad but comparitively using iterations its good
 
     }
 }
