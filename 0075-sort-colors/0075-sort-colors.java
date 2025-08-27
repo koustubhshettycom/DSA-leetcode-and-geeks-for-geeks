@@ -1,16 +1,37 @@
 class Solution {
-    public void sortColors(int[] arr) {
-        int start=0;
-        int end =arr.length-1;
-        int[] array = new int[arr.length];
+    public void sortColors(int[] arr) { 
+        // store no. of 0 1 2
+        int count0=0;
+        int count1=0;
+        int count2=0;
         for(int i=0;i<arr.length;i++){
-            for(int j=0;j<arr.length-1;j++){
-                if(arr[j]>arr[j+1]){
-                   int temp= arr[j];
-                    arr[j]=arr[j+1];
-                    arr[j+1]=temp;
-                }
+            switch(arr[i]){
+                case 0:count0++; break;
+                case 1:count1++; break;
+                case 2: count2++; break;
             }
+            
+                
+        // adding the elements  
         }
+         int count=0;
+            while(count0!=0){
+                arr[count]=0;
+                count0--;
+                count++;
+            }
+            
+            while(count1!=0){
+                arr[count]=1;
+                count1--;
+                count++;
+            }
+             while(count2!=0){
+                arr[count]=2;
+                count2--;
+                count++;
+            }
+        
+        
     }
-}
+}// Time complexity is great O(n) 9/10
