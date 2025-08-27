@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0238-product-of-array-except-self) |
@@ -83,6 +84,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -94,6 +96,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0189-rotate-array) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
