@@ -13,4 +13,4 @@ class Solution {
 
 
     }
-}
+}//Time complexity is bad comparitively O(n*n) 4/10
