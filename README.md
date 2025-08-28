@@ -120,8 +120,13 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0169-majority-element) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
