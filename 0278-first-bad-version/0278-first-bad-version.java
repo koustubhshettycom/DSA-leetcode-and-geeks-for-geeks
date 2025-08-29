@@ -6,6 +6,7 @@ public class Solution extends VersionControl {
         int start=0;
         int end= n;
         int ans=1;
+        // creating binary search because constraint is in the power of 2
         while(start<=end){
             int mid =start+(end-start)/2;
             if(!isBadVersion(mid)){
