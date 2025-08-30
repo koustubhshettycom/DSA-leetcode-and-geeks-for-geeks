@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0238-product-of-array-except-self) |
 | [0566-reshape-the-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0566-reshape-the-matrix) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -129,6 +130,7 @@
 | [0367-valid-perfect-square](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0441-arranging-coins) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
