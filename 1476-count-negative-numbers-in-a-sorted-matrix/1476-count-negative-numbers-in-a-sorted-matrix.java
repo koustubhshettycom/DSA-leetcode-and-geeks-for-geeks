@@ -1,6 +1,6 @@
 class Solution {
     public int countNegatives(int[][] grid) { 
-      
+    //   iterate through whole row count its the option available 
       int count=0;
       for(int row=0;row<grid.length;row++){
         int end=grid[row].length-1;
@@ -14,3 +14,4 @@ class Solution {
       return count;  
     }
 }
+// Time complexity is O(n*n)
