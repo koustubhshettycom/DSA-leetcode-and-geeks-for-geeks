@@ -1,6 +1,7 @@
     class Solution {
         public boolean checkIfExist(int[] arr) {
         Arrays.sort(arr);   
+        // sort it and compare with each and every element thats it
         for(int i=0;i<arr.length;i++){
             int req= arr[i]*2;
             int start=0;
@@ -28,3 +29,4 @@
         
         }
     }
+    // Time complexity is good O(logn)
