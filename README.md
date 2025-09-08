@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0566-reshape-the-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -90,6 +91,7 @@
 | [0268-missing-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1635-number-of-good-pairs) |
