@@ -5,7 +5,7 @@ class Solution {
        // cyclic sort as the question jas condtion of 1-n
        while(i<arr.length){
         int corect=arr[i]-1;
-        if(arr[i]<=arr.length && arr[i]!=arr[corect]){
+        if( arr[i]!=arr[corect]){
             int temp = arr[i];
             arr[i]= arr[corect];
             arr[corect]=temp;
