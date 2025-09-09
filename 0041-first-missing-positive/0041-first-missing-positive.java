@@ -1,16 +1,27 @@
 class Solution {
     public int firstMissingPositive(int[] arr) {
      
-     int pointer=1;   
-     Arrays.sort(arr);
-     for(int i=0;i<arr.length;i++){
-        if(arr[i]== pointer){
-            pointer++;
+     int i=0;
+     // cyclic sort used as the only approach with sorting of O(n)
+     while(i<arr.length){
+        int corect= arr[i]-1;
+        if(arr[i]>0 && arr[i]<=arr.length &&arr[i]!= arr[corect]){
+            int temp= arr[i];
+            arr[i]= arr[corect];
+            arr[corect]=temp;
         }
+        else{
+            i++;
+        }
+       // adding elements
+        }
+         for(int ind=0;ind<arr.length;ind++){
+          if(arr[ind]!=ind+1){
+            return ind+1;
+           }
+        } 
+         return arr[arr.length-1]+1;
+        
      }
-        return pointer;
 
-
-
-    }
-}//Time complexity is bad comparitively O(n*n) 4/10
+}// time complexity is O(n)
