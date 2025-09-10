@@ -34,6 +34,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -178,6 +179,7 @@
 | [0792-binary-search](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
