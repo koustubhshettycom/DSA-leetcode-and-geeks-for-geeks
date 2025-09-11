@@ -1,6 +1,6 @@
 class Solution {
     public int findMin(int[] arr) {
-     
+     // binary search is best for sorted array 
      int start=0;
      int end= arr.length-1;
      while(start<end){
@@ -14,6 +14,7 @@ class Solution {
         else if(arr[mid]<arr[end]){
             end =mid;
         }
+        // this case is to eliminate one of the common value
         else{
             end--;
         }
@@ -23,4 +24,4 @@ class Solution {
      
      
     }
-}
+}// time compplexity is O(logn)
