@@ -155,6 +155,7 @@
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1205-defanging-an-ip-address) |
+| [1797-goal-parser-interpretation](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Binary Search
