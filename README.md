@@ -129,6 +129,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1970-sorting-the-sentence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1970-sorting-the-sentence) |
 ## Counting Sort
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [1797-goal-parser-interpretation](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1970-sorting-the-sentence) |
 ## Binary Search
 |  |
 | ------- |
