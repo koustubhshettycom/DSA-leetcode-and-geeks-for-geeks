@@ -4,16 +4,17 @@ class Solution {
         int ver=0;
         // storing u l r d values so that u can add and minus them like in x nad y plane
         for(int i=0;i<s.length();i++){
-            if(s.charAt(i)=='U'){
+            char ch = s.charAt(i);
+            if(ch=='U'){
                 ver++;
             }
-            else if(s.charAt(i)=='D'){
+            else if(ch=='D'){
                 ver--;
             }
-            else if(s.charAt(i)=='L'){
+            else if(ch=='L'){
                 hor--;
             }
-            else if(s.charAt(i)=='R'){
+            else if(ch=='R'){
                 hor++;
             }
         }
