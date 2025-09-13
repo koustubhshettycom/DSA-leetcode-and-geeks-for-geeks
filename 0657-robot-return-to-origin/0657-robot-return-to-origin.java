@@ -17,11 +17,7 @@ class Solution {
                 hor++;
             }
         }
-        if(hor==0 && ver==0){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return hor==0 && ver==0;
+        
     }// Time complexity O(n)
 }
