@@ -141,6 +141,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0189-rotate-array) |
@@ -159,6 +160,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0742-to-lower-case) |
@@ -207,4 +209,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0374-guess-number-higher-or-lower) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
