@@ -15,3 +15,4 @@ class Solution {
         return str2;
     }
 }// time complexity is O(n)
+// recommended to use string builder 
