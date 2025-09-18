@@ -152,6 +152,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
+| [0961-long-pressed-name](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0961-long-pressed-name) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2128-reverse-prefix-of-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2128-reverse-prefix-of-word) |
 ## Bit Manipulation
@@ -168,6 +169,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0742-to-lower-case) |
+| [0961-long-pressed-name](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0961-long-pressed-name) |
 | [1205-defanging-an-ip-address](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1797-goal-parser-interpretation) |
