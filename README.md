@@ -178,6 +178,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0742-to-lower-case) |
 | [0961-long-pressed-name](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0961-long-pressed-name) |
 | [1205-defanging-an-ip-address](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1205-defanging-an-ip-address) |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0686-repeated-string-match) |
 ## Stack
 |  |
 | ------- |
