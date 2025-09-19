@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0169-majority-element) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0268-missing-number) |
@@ -168,6 +170,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0058-length-of-last-word) |
