@@ -1,6 +1,6 @@
 class Solution {
     public int fib(int n) {
-    
+    // easy code through iteration 
     int count=2;
     if(n==0){
         return 0;
@@ -17,4 +17,5 @@ class Solution {
         return second;
   
     }
+    // Time complexity is O(n)
 }
