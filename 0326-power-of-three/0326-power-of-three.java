@@ -1,4 +1,5 @@
 class Solution {
+    // simple code and easy 
     public boolean isPowerOfThree(int n) {
         if(n<=0){
             return false;
@@ -9,4 +10,4 @@ class Solution {
         }
         return num==1;
     }
-}
+}// Time complexity is O(logn)
