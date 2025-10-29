@@ -122,6 +122,7 @@
 | [0013-roman-to-integer](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0441-arranging-coins) |
@@ -191,6 +192,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
@@ -292,6 +294,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
