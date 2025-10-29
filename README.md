@@ -133,6 +133,7 @@
 | [1013-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -199,6 +200,7 @@
 | [0287-find-the-duplicate-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
