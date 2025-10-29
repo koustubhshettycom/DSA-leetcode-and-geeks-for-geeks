@@ -124,6 +124,7 @@
 | [0189-rotate-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0628-maximum-product-of-three-numbers) |
@@ -295,6 +296,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
