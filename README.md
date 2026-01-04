@@ -34,6 +34,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0628-maximum-product-of-three-numbers) |
@@ -306,6 +307,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -328,6 +330,7 @@
 | [0039-combination-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
