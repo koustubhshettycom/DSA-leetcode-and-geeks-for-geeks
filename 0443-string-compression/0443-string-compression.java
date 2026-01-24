@@ -1,6 +1,6 @@
 class Solution {
     public int compress(char[] chars) {
-        String str ="";
+        StringBuilder str = new StringBuilder();
         char ref = chars[0];
         int count=0;
         for(int i=0;i<chars.length;i++){
@@ -8,10 +8,10 @@ class Solution {
                 count++;
             }
             else{
-                str+= ref;
+                str.append(ref);
                 
                 if(count>1){
-                    str+=count;
+                    str.append(count);
                     
                 }
                 ref = chars[i];
@@ -19,9 +19,9 @@ class Solution {
                 
             }
         }
-        str += ref;
+        str.append(ref);
         if (count > 1) {
-         str += count;
+         str.append(count);
         }
         for(int i=0;i<str.length();i++){
             chars[i] = str.charAt(i);
@@ -30,4 +30,4 @@ class Solution {
         return str.length();
         
     }
-}
+}// Time complexity O(n)
