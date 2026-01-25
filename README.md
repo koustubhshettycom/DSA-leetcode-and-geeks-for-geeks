@@ -127,6 +127,7 @@
 | [0009-palindrome-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0268-missing-number) |
@@ -308,6 +309,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0509-fibonacci-number) |
@@ -323,6 +325,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1013-fibonacci-number) |
 ## Backtracking
