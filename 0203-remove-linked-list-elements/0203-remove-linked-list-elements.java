@@ -10,6 +10,8 @@
  */
 class Solution {
     public ListNode removeElements(ListNode head, int item) {
+        // logic is to see the end cases of being null and the tail part
+        // the main logic--> the next item is equal to the value then point to next of the next 
         while (head != null && head.val == item) {
             head = head.next;
         }
@@ -27,4 +29,4 @@ class Solution {
         return head;
         
     }
-}
+}// Time complexity is O(n)
