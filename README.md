@@ -321,6 +321,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0342-power-of-four) |
@@ -344,4 +345,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
