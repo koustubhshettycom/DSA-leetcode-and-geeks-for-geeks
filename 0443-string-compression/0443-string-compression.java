@@ -6,8 +6,8 @@ class Solution {
         for(int i=0;i<chars.length;i++){
             if(chars[i] == ref){
                 count++;
-            }
-            else{
+            
+            }else{
                 str.append(ref);
                 
                 if(count>1){
