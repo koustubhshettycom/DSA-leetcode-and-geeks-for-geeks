@@ -12,9 +12,7 @@ class Solution {
     public void deleteNode(ListNode node) {
        node.val = node.next.val;
        node.next = node.next.next;
-       return;
-        
-        
+       return;    
     }
 }
-//Time complexity id O(n)
+//Time complexity is O(n)
