@@ -17,3 +17,4 @@ class Solution {
         
     }
 }
+//Time complexity id O(n)
