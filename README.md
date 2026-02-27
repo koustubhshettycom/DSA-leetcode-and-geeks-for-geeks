@@ -71,6 +71,7 @@
 | [2048-build-array-from-permutation](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2058-concatenation-of-array) |
+| [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | [1970-sorting-the-sentence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2128-reverse-prefix-of-word) |
+| [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
 ## Binary Search
 |  |
 | ------- |
