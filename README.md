@@ -247,6 +247,7 @@
 | [0686-repeated-string-match](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0742-to-lower-case) |
 | [0796-rotate-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0961-long-pressed-name) |
 | [1205-defanging-an-ip-address](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -310,11 +311,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0232-implement-queue-using-stacks) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2128-reverse-prefix-of-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2128-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
