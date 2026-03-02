@@ -307,6 +307,7 @@
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0232-implement-queue-using-stacks) |
 | [2128-reverse-prefix-of-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2128-reverse-prefix-of-word) |
 ## Greedy
 |  |
@@ -379,4 +380,12 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
