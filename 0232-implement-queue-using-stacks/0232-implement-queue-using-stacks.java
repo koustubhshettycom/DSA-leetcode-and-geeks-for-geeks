@@ -1,4 +1,6 @@
 class MyQueue {
+    // easy logic use 2 stacks for removing that is it and use the oops concepts 
+    //mainly for the intialising stuff
     Stack<Integer> stc;
     Stack<Integer> stc2;
 
@@ -50,6 +52,7 @@ class MyQueue {
         
     }
 }
+
 
 /**
  * Your MyQueue object will be instantiated and called as such:
