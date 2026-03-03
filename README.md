@@ -39,6 +39,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
@@ -80,6 +81,7 @@
 | [0059-spiral-matrix-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0898-transpose-matrix) |
@@ -311,6 +313,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2128-reverse-prefix-of-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2128-reverse-prefix-of-word) |
 ## Greedy
