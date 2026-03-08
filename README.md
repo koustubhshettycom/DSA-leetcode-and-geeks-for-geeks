@@ -53,6 +53,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1089-duplicate-zeros](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1089-duplicate-zeros) |
 | [1137-height-checker](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -220,6 +221,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1019-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1089-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2128-reverse-prefix-of-word) |
