@@ -319,6 +319,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0682-baseball-game) |
@@ -402,10 +403,12 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
