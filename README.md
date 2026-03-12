@@ -381,6 +381,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0100-same-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -410,4 +411,16 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0496-next-greater-element-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
