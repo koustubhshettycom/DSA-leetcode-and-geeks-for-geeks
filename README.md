@@ -384,6 +384,7 @@
 | [0079-word-search](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Linked List
@@ -423,6 +424,7 @@
 | [0100-same-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -431,6 +433,7 @@
 | [0100-same-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -439,6 +442,7 @@
 | [0100-same-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
