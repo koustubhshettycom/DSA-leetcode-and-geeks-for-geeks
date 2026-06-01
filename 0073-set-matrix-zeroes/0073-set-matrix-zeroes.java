@@ -2,7 +2,7 @@ class Solution {
     public void setZeroes(int[][] arr) {
        int n= arr.length;
        int m= arr[0].length;
-       // declaring the idexes with 0
+       // declaring the indexes with 0
         boolean[] row = new boolean[n];
         boolean[] col = new boolean[m];
         for(int i=0;i<arr.length;i++){
