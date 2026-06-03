@@ -21,6 +21,7 @@
 | [0079-word-search](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -352,6 +353,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0509-fibonacci-number) |
