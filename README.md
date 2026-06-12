@@ -85,6 +85,7 @@
 | [2540-minimum-common-value](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2965-find-missing-and-repeated-values) |
 | [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
+| [3925-concatenate-array-with-reverse](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [2048-build-array-from-permutation](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2058-concatenation-of-array) |
 | [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
+| [3925-concatenate-array-with-reverse](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
