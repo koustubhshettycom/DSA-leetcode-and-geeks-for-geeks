@@ -39,6 +39,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0540-single-element-in-a-sorted-array) |
@@ -192,6 +193,7 @@
 | [0268-missing-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0958-sort-array-by-parity-ii) |
@@ -230,6 +232,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
@@ -349,6 +352,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
