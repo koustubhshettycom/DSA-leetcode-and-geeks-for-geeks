@@ -75,6 +75,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1833-find-the-highest-altitude) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1603-running-sum-of-1d-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-find-the-highest-altitude](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1833-find-the-highest-altitude) |
 ## Matrix
 |  |
@@ -290,6 +292,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0961-long-pressed-name) |
 | [1205-defanging-an-ip-address](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1205-defanging-an-ip-address) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1823-determine-if-string-halves-are-alike) |
