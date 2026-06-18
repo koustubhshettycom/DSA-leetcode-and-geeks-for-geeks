@@ -163,6 +163,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0189-rotate-array) |
@@ -393,6 +394,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0119-pascals-triangle-ii) |
@@ -511,4 +513,8 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
