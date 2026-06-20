@@ -92,6 +92,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
 | [3467-transform-array-by-parity](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3467-transform-array-by-parity) |
+| [3895-count-digit-appearances](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -188,6 +189,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3895-count-digit-appearances](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3895-count-digit-appearances) |
 ## Counting
 |  |
 | ------- |
