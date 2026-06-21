@@ -23,7 +23,7 @@ class Solution {
                 space++;
             } 
         }
-        return Math.abs(x)+Math.abs(y)+Math.abs(space);
+        return Math.abs(x)+Math.abs(y)+space;
 
         
     }
