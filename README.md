@@ -80,6 +80,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1833-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1833-maximum-ice-cream-bars) |
 | [1899-count-items-matching-a-rule](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2058-concatenation-of-array) |
@@ -218,6 +219,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1833-maximum-ice-cream-bars](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1833-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1970-sorting-the-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -227,6 +229,7 @@
 | ------- |
 | [1137-height-checker](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -378,6 +381,7 @@
 | [0455-assign-cookies](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1833-maximum-ice-cream-bars](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2410-maximum-matching-of-players-with-trainers) |
