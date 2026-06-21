@@ -17,4 +17,4 @@ class Solution {
         return cost;
 
     }
-}// Time complexity is O(n)
+}// Time complexity is O(nlogn)
