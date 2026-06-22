@@ -13,6 +13,7 @@
 | [0039-combination-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0059-spiral-matrix-ii) |
@@ -124,6 +125,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0073-set-matrix-zeroes) |
@@ -168,6 +170,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0070-climbing-stairs) |
