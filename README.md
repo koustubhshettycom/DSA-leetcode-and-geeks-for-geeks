@@ -156,6 +156,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0496-next-greater-element-i) |
+| [1189-maximum-number-of-balloons](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1189-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1635-number-of-good-pairs) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1189-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1823-determine-if-string-halves-are-alike) |
 | [3467-transform-array-by-parity](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3467-transform-array-by-parity) |
@@ -301,6 +303,7 @@
 | [0796-rotate-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0961-long-pressed-name) |
+| [1189-maximum-number-of-balloons](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1189-maximum-number-of-balloons) |
 | [1205-defanging-an-ip-address](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1205-defanging-an-ip-address) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
