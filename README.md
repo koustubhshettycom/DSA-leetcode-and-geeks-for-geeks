@@ -94,6 +94,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
 | [3467-transform-array-by-parity](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3467-transform-array-by-parity) |
+| [3861-minimum-capacity-box](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3861-minimum-capacity-box) |
 | [3895-count-digit-appearances](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
