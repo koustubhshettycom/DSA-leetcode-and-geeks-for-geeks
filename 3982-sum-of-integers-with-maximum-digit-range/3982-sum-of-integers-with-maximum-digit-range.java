@@ -1,7 +1,7 @@
 class Solution {
     public int maxDigitRange(int[] nums) {
-        // easy logic keep keep trace of max and min numbers from the set of number
-        // select the ones w largest and the smallest numbers 
+        // easy logic keep trace of max diff of each digit of each number from nums
+        // the ones with the max same diff add them and return
         int sum = 0;
         int maxsum = -1;
 
