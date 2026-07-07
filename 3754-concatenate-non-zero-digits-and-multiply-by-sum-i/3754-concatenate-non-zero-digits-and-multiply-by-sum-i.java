@@ -15,7 +15,7 @@ class Solution {
             curr+=ans*Math.pow(10,exp);
             exp++;
             }
-            num= num/10;
+            num/=10;
            
 
         }
@@ -23,4 +23,4 @@ class Solution {
         return curr*sum;
         
     }
-}// Time complexity is O(n)
+}// Time complexity is O(logn)
