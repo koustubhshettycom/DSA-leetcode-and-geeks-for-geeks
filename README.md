@@ -32,6 +32,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0238-product-of-array-except-self) |
@@ -436,6 +437,7 @@
 | [0118-pascals-triangle](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0509-fibonacci-number) |
