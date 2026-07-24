@@ -495,6 +495,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
 |  |
 | ------- |
@@ -561,6 +562,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -592,4 +594,12 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
