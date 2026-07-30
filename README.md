@@ -335,6 +335,7 @@
 | [0344-reverse-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0680-valid-palindrome-ii) |
