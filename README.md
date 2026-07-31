@@ -217,6 +217,7 @@
 | [2469-convert-the-temperature](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3516-find-closest-person) |
@@ -358,6 +359,7 @@
 | [1970-sorting-the-sentence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2128-reverse-prefix-of-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3612-process-string-with-special-operations-i) |
 ## Binary Search
@@ -437,6 +439,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
 | ------- |
