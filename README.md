@@ -48,6 +48,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0540-single-element-in-a-sorted-array) |
@@ -204,6 +205,7 @@
 | [0342-power-of-four](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [0755-reach-a-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0755-reach-a-number) |
@@ -475,6 +477,7 @@
 | [0322-coin-change](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0746-min-cost-climbing-stairs) |
@@ -490,6 +493,7 @@
 | [0231-power-of-two](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1013-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2487-remove-nodes-from-linked-list) |
@@ -638,4 +642,8 @@
 | [1791-find-center-of-star-graph](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3898-find-the-degree-of-each-vertex) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
