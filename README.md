@@ -71,6 +71,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1089-duplicate-zeros) |
 | [1137-height-checker](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1137-height-checker) |
+| [1406-stone-game-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -214,6 +215,7 @@
 | [1013-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -486,6 +488,7 @@
 | [0877-stone-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -650,4 +653,13 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
