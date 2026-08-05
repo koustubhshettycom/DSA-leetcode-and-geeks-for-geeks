@@ -539,6 +539,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3310-remove-methods-from-project) |
 ## Linked List
 |  |
 | ------- |
@@ -609,6 +610,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -650,6 +652,7 @@
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Game Theory
 |  |
