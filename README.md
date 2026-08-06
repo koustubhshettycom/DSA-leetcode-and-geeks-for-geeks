@@ -228,6 +228,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3536-maximum-product-of-two-digits) |
@@ -668,4 +669,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1406-stone-game-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
