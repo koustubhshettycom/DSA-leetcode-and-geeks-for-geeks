@@ -226,6 +226,7 @@
 | [1635-number-of-good-pairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1635-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
