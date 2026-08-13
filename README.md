@@ -116,6 +116,7 @@
 | [3861-minimum-capacity-box](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3861-minimum-capacity-box) |
 | [3895-count-digit-appearances](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3921-score-validator](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -134,6 +135,7 @@
 | [2058-concatenation-of-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2058-concatenation-of-array) |
 | [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3612-process-string-with-special-operations-i) |
+| [3921-score-validator](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
@@ -380,6 +382,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3612-process-string-with-special-operations-i) |
+| [3921-score-validator](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3921-score-validator) |
 ## Binary Search
 |  |
 | ------- |
