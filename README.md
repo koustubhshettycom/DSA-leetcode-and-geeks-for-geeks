@@ -105,6 +105,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -146,6 +147,7 @@
 | [1732-find-the-highest-altitude](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-find-the-highest-altitude](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1833-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
 | ------- |
