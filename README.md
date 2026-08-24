@@ -35,6 +35,7 @@
 | [0162-find-peak-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0213-house-robber-ii) |
@@ -160,6 +161,7 @@
 | [0073-set-matrix-zeroes](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0079-word-search) |
+| [0174-dungeon-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0174-dungeon-game) |
 | [0566-reshape-the-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0867-transpose-matrix) |
@@ -494,6 +496,7 @@
 | [0119-pascals-triangle-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0174-dungeon-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0322-coin-change) |
