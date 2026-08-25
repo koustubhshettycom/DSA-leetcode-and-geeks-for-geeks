@@ -116,6 +116,7 @@
 | [3467-transform-array-by-parity](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3861-minimum-capacity-box) |
 | [3895-count-digit-appearances](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3895-count-digit-appearances) |
@@ -201,6 +202,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3668-restore-finishing-order](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
