@@ -135,6 +135,7 @@
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0898-transpose-matrix) |
+| [1006-clumsy-factorial](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1006-clumsy-factorial) |
 | [1505-create-target-array-in-the-given-order](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2058-concatenation-of-array) |
@@ -228,6 +229,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [0755-reach-a-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0755-reach-a-number) |
 | [0877-stone-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0877-stone-game) |
+| [1006-clumsy-factorial](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -460,6 +462,7 @@
 | [0682-baseball-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1006-clumsy-factorial](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1006-clumsy-factorial) |
 | [2128-reverse-prefix-of-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2487-remove-nodes-from-linked-list) |
