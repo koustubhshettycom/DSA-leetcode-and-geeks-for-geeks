@@ -104,6 +104,7 @@
 | [2048-build-array-from-permutation](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -477,6 +478,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
