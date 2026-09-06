@@ -127,6 +127,7 @@
 | [3898-find-the-degree-of-each-vertex](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3925-concatenate-array-with-reverse) |
+| [4024-nearest-available-drone](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/4024-nearest-available-drone) |
 ## Simulation
 |  |
 | ------- |
@@ -715,6 +716,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4024-nearest-available-drone](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/4024-nearest-available-drone) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
