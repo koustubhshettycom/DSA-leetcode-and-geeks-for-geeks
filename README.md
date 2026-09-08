@@ -108,6 +108,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2574-left-and-right-sum-differences) |
@@ -147,6 +148,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2058-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3612-process-string-with-special-operations-i) |
 | [3921-score-validator](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3921-score-validator) |
@@ -354,6 +356,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
