@@ -121,6 +121,7 @@
 | [3467-transform-array-by-parity](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3861-minimum-capacity-box) |
@@ -153,6 +154,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3612-process-string-with-special-operations-i) |
+| [3701-compute-alternating-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3701-compute-alternating-sum) |
 | [3921-score-validator](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
