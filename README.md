@@ -129,6 +129,7 @@
 | [3701-compute-alternating-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3731-find-missing-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3834-merge-adjacent-equal-elements) |
 | [3861-minimum-capacity-box](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3895-count-digit-appearances) |
@@ -160,6 +161,7 @@
 | [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3701-compute-alternating-sum) |
+| [3834-merge-adjacent-equal-elements](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3834-merge-adjacent-equal-elements) |
 | [3921-score-validator](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
@@ -502,6 +504,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2487-remove-nodes-from-linked-list) |
+| [3834-merge-adjacent-equal-elements](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3834-merge-adjacent-equal-elements) |
 ## Greedy
 |  |
 | ------- |
