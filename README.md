@@ -236,6 +236,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0048-rotate-image) |
