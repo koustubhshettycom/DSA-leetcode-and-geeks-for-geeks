@@ -159,6 +159,7 @@
 | [2058-concatenation-of-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2058-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3701-compute-alternating-sum) |
 | [3834-merge-adjacent-equal-elements](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3834-merge-adjacent-equal-elements) |
@@ -441,6 +442,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3921-score-validator](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3921-score-validator) |
