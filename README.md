@@ -250,6 +250,7 @@
 | [0231-power-of-two](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0367-valid-perfect-square) |
@@ -747,12 +748,14 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0292-nim-game) |
 | [1406-stone-game-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
@@ -770,9 +773,18 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2396-strictly-palindromic-number) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0836-rectangle-overlap) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
