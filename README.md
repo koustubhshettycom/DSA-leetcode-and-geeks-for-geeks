@@ -447,6 +447,7 @@
 | [2942-find-words-containing-character](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3110-score-of-a-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3110-score-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3612-process-string-with-special-operations-i) |
