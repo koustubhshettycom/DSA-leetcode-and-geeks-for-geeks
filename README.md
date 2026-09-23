@@ -271,6 +271,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1635-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
