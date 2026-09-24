@@ -125,6 +125,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -287,6 +288,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
