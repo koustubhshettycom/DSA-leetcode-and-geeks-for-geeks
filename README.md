@@ -112,6 +112,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2418-sort-the-people) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2574-left-and-right-sum-differences) |
@@ -406,6 +407,7 @@
 | [0832-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## String
 |  |
 | ------- |
