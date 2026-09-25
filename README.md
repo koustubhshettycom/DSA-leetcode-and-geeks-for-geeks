@@ -160,6 +160,7 @@
 | [2048-build-array-from-permutation](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2058-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3248-snake-in-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3612-process-string-with-special-operations-i) |
@@ -649,6 +650,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
