@@ -228,6 +228,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1189-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -438,6 +439,7 @@
 | [0680-valid-palindrome-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0742-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0961-long-pressed-name) |
