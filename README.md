@@ -15,6 +15,7 @@
 | [0036-valid-sudoku](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0053-maximum-subarray) |
@@ -365,6 +366,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0088-merge-sorted-array) |
@@ -524,6 +526,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0145-binary-tree-postorder-traversal) |
@@ -571,6 +574,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0063-unique-paths-ii) |
@@ -680,6 +684,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
