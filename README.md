@@ -153,6 +153,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0682-baseball-game) |
@@ -262,6 +263,7 @@
 | [0189-rotate-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0292-nim-game) |
@@ -766,6 +768,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union-Find
