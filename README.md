@@ -26,6 +26,7 @@
 | [0073-set-matrix-zeroes](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0118-pascals-triangle) |
@@ -416,6 +417,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0231-power-of-two) |
@@ -634,6 +636,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0494-target-sum) |
