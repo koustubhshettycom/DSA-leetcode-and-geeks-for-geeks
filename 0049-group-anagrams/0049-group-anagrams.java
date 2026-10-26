@@ -1,7 +1,7 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
     //Logic is to sort each string and make grps
-    //if grp of tht str doesnt exist add make one and add
+    //if grp of tht str doesnt exist make one and add
         Map<String,List<String>> mp = new HashMap<>();
         for(int i=0;i<strs.length;i++){
             String w = strs[i];
