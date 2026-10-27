@@ -34,6 +34,7 @@
 | [0119-pascals-triangle-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -225,6 +226,7 @@
 | [0041-first-missing-positive](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0160-intersection-of-two-linked-lists) |
@@ -784,6 +786,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0128-longest-consecutive-sequence) |
 | [1971-find-if-path-exists-in-graph](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
