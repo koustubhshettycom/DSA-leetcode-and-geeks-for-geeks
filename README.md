@@ -242,6 +242,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1189-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -404,6 +405,7 @@
 | [0443-string-compression](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0861-flipping-an-image) |
@@ -459,6 +461,7 @@
 | [0443-string-compression](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0686-repeated-string-match) |
@@ -853,4 +856,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
