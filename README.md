@@ -56,6 +56,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0494-target-sum) |
@@ -283,6 +284,7 @@
 | [0342-power-of-four](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0628-maximum-product-of-three-numbers) |
