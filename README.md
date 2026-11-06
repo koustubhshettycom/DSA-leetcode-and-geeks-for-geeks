@@ -85,6 +85,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1089-duplicate-zeros) |
 | [1137-height-checker](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1137-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -363,6 +364,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1137-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -424,6 +426,7 @@
 | [0961-long-pressed-name](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1019-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -534,6 +537,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
