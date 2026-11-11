@@ -82,6 +82,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1019-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1019-next-greater-node-in-linked-list) |
+| [1046-last-stone-weight](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1089-duplicate-zeros) |
 | [1137-height-checker](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1137-height-checker) |
@@ -608,6 +609,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
