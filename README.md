@@ -517,6 +517,7 @@
 | [1970-sorting-the-sentence](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1970-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2128-reverse-prefix-of-word](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2128-reverse-prefix-of-word) |
 | [2418-sort-the-people](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2418-sort-the-people) |
 | [2833-furthest-point-from-origin](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/2833-furthest-point-from-origin) |
