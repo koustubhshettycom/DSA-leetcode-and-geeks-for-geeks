@@ -88,6 +88,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1089-duplicate-zeros) |
 | [1137-height-checker](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1137-height-checker) |
+| [1352-product-of-the-last-k-numbers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1352-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -309,6 +311,7 @@
 | [1013-fibonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -752,6 +755,7 @@
 | [0155-min-stack](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -908,4 +912,8 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/0451-sort-characters-by-frequency) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/koustubhshettycom/DSA-leetcode-and-geeks-for-geeks/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
